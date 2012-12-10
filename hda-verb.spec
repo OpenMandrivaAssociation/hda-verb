@@ -32,3 +32,19 @@ cp hda-verb %{buildroot}/%{_sbindir}
 %defattr(0644,root,root,0755)
 %doc ChangeLog README
 %attr(0755,root,root) %{_sbindir}/hda-verb
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 0.3-3mdv2011.0
++ Revision: 619357
+- the mass rebuild of 2010.0 packages
+
+* Fri Sep 11 2009 Thierry Vignaud <tv@mandriva.org> 0.3-2mdv2010.0
++ Revision: 437851
+- rebuild
+
+* Wed Jan 28 2009 Herton Ronaldo Krzesinski <herton@mandriva.com.br> 0.3-1mdv2009.1
++ Revision: 334965
+- import hda-verb
+
+
