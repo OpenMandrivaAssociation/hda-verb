@@ -1,6 +1,6 @@
 Name:		hda-verb
 Version:	0.3
-Release:	%mkrel 3
+Release:	4
 Summary:	Tool to send commands (verbs) to HD-Audio codecs
 License:	GPLv2+
 Group:		System/Configuration/Hardware
